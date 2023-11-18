@@ -7,6 +7,7 @@ This repository contains a basic Express.js server application with various feat
 3. Implement a route to handle POST requests to the root URL ("/") and log the received data to the console.
 4. Create a route to handle GET requests to "/products" and send a response with information accordingly.
 5. Implement a route to handle POST requests to "/products" and save the received data to a file on the server.
+6. Implement a route to handle PUT & DELET requests to "/products".
 
 # 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
